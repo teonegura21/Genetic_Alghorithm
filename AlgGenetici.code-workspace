@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../AlgGenetici"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"vector": "cpp",
+			"random": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
